@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Sanya Chandel, a passionate third-year Computer Science and Engineering (CSE) student pursuing my BTech degree. I'm deeply interested in software development, machine learning, and solving real-world problems through technology.✨ 
+Welcome to my GitHub profile! I'm Sanya Chandel, a passionate third-year Computer Science and Engineering (CSE) student pursuing B.Tech degree. I'm deeply interested in software development, machine learning, and solving real-world problems through technology.✨ 
 
 ### About Me
 - 🎓 Currently pursuing B.Tech in Computer Science and Engineering.
