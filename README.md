@@ -68,7 +68,7 @@
 - **Role:** Frontend Developer
 - **Tech stack**: HTML, Tailwind CSS, Bootstrap, JavaScript.
 
-  ### BlogIt
+ ### BlogIt
 *Jun 2023 - Jul 2023*
 - Designed and implemented a sophisticated blog application with a sleek, responsive interface, enabling users to easily create, edit, and view blog posts. This feature resulted in a 40% increase in user engagement and streamlined the onboarding process for new users.
 - Enhanced the user interface to improve usability, creating a visually appealing and functional platform..
