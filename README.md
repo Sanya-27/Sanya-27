@@ -3,7 +3,7 @@
 I'm Sanya Chandel, a passionate final-year Computer Science and Engineering student pursuing B.Tech degree. I'm deeply interested in software development, machine learning, and solving real-world problems through technology.✨</h4>
 
 - 📫 How to reach me: **sanyachandel2710@gmail.com**
-- 💬 Ask me about **JAVA, JavaScript, React, Frontend Development**
+- 💭 Ask me about **JAVA, JavaScript, React, Frontend Development**
 </br>
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanya-27&show_icons=true&locale=en&layout=compact" alt="Sanya-27" style="width: 320px; height: 164px; border-radius: 5px;" /> -->
