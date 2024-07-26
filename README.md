@@ -1,5 +1,6 @@
 <h2>Hi there 👋</h2> 
-<h3>Welcome to my GitHub profile! I'm Sanya Chandel, a passionate final-year Computer Science and Engineering student pursuing B.Tech degree. I'm deeply interested in software development, machine learning, and solving real-world problems through technology.✨</h3>
+<h4>Welcome to my GitHub profile! 
+I'm Sanya Chandel, a passionate final-year Computer Science and Engineering student pursuing B.Tech degree. I'm deeply interested in software development, machine learning, and solving real-world problems through technology.✨</h4>
 
 - 📫 How to reach me: **sanyachandel2710@gmail.com**
 - 💬 Ask me about **JAVA, JavaScript, React, Frontend Development**
