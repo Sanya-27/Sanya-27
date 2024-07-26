@@ -76,14 +76,12 @@ I'm Sanya Chandel, a passionate final-year Computer Science and Engineering stud
 ### Rhythmify 
 
 - Engineered a user-friendly interface that provides seamless audio streaming and personalized listening experiences, incorporating over 10+ functionalities such as audio playback, search capabilities, playlist management, and user account management.
-- **Role:** Frontend Developer
-- **Tech stack**: HTML, Tailwind CSS, Bootstrap, JavaScript.
+- **Tech stack**: HTML, CSS, Bootstrap, JavaScript.
 
  ### BlogIt
  
 - Designed and implemented a sophisticated blog application with a sleek, responsive interface, enabling users to easily create, edit, and view blog posts. This feature resulted in a 40% increase in user engagement and streamlined the onboarding process for new users.
-- **Role:** Frontend Developer
-- **Tech stack**: HTML, Tailwind CSS, Bootstrap, JavaScript.
+- **Tech stack**: HTML, CSS, Bootstrap, JavaScript.
   
 
 ---
