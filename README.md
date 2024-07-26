@@ -5,10 +5,12 @@ I'm Sanya Chandel, a passionate final-year Computer Science and Engineering stud
 - 📫 How to reach me: **sanyachandel2710@gmail.com**
 - 💬 Ask me about **JAVA, JavaScript, React, Frontend Development**
 </br>
-<p style="display: flex; justify-contect: space-between;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanya-27&show_icons=true&locale=en&layout=compact" alt="Sanya-27" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="164px" src="https://s1.ezgif.com/tmp/ezgif-1-c08dc483c8.gif" />
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanya-27&show_icons=true&locale=en&layout=compact" alt="Sanya-27" style="width: 320px; height: 164px; border-radius: 5px;" />
+  <img style="border-radius: 5px; margin: 0 0 5px 35px; width: 320px; height: 164px;" alt="GIF" src="https://s1.ezgif.com/tmp/ezgif-1-c08dc483c8.gif" />
 </p>
+
+
 
 ## 💬 Connect with me
 <p align="left">
