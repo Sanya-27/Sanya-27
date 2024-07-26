@@ -6,7 +6,7 @@ I'm Sanya Chandel, a passionate final-year Computer Science and Engineering stud
 - 💬 Ask me about **JAVA, JavaScript, React, Frontend Development**
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rv4474&show_icons=true&locale=en&layout=compact" alt="rv4474" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanya-27&show_icons=true&locale=en&layout=compact" alt="Sanya-27" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="164px" src="https://s1.ezgif.com/tmp/ezgif-1-c08dc483c8.gif" />
 </p>
 
