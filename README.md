@@ -7,7 +7,7 @@ I'm Sanya Chandel, a passionate final-year Computer Science and Engineering stud
 </br>
 <p style="display: flex; justify-content: space-between; align-items: center;">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanya-27&show_icons=true&locale=en&layout=compact" alt="Sanya-27" style="width: 320px; height: 164px; border-radius: 5px;" /> -->
-  <img src="https://s1.ezgif.com/tmp/ezgif-1-c08dc483c8.gif" alt="GIF" style="width: 320px; height: 164px; border-radius: 5px;" />
+  <!--<img src="https://s1.ezgif.com/tmp/ezgif-1-c08dc483c8.gif" alt="GIF" style="width: 320px; height: 164px; border-radius: 5px;" /-->
 </p>
 
 
