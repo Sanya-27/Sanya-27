@@ -44,7 +44,7 @@ I’m a Software Engineer with experience in building scalable web and mobile ap
 
 ## 📱 iOS Projects
 
-### 🔢 Calculator Application (Multi-Screen)
+### 🔢 CalcEdge – Smart Multi-Screen Calculator
 - Built a multi-screen calculator with history tracking
 - Implemented **MVVM architecture**, **UserDefaults**, and **custom error handling**
 - Designed responsive UI using **Auto Layout**
@@ -52,14 +52,14 @@ I’m a Software Engineer with experience in building scalable web and mobile ap
 
 ---
 
-### 🌦️ Weather App (UIKit)
+### 🌦️ SkyCast – Real-Time Weather App (UIKit)
 - Integrated real-time weather data using REST APIs**
 - Followed **MVVM architecture** with clean separation
 - Tech: Swift, UIKit, Core Data  
 
 ---
 
-### ☁️ Weather App (SwiftUI + Firebase)
+### ☁️ WeatherHub – SwiftUI Weather App with Firebase
 - Built modern weather app with **authentication system**
 - Used **SwiftUI state management** and **Firebase Auth**
 - Persistent user sessions and offline data support
